@@ -1,0 +1,1797 @@
+================================================================================
+STAMPEDE RISK ANALYSIS REPORT
+================================================================================
+
+Video: Screen Recording 2025-12-05 162201.mp4
+Frames Analyzed: 130
+Analysis Date: 4.12.0
+
+--------------------------------------------------------------------------------
+HIGH RISK INCIDENTS DETECTED
+--------------------------------------------------------------------------------
+
+Frame 0004:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 6483.6
+  Flow: +877.40
+  Trend: INCREASING
+
+Frame 0004:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8418.2
+  Flow: +637.70
+  Trend: INCREASING
+
+Frame 0006:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14231.8
+  Flow: +1195.56
+  Trend: INCREASING
+
+Frame 0006:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8813.1
+  Flow: +1603.49
+  Trend: INCREASING
+
+Frame 0008:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10374.0
+  Flow: +302.57
+  Trend: INCREASING
+
+Frame 0008:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8893.0
+  Flow: +1095.62
+  Trend: INCREASING
+
+Frame 0010:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13814.0
+  Flow: +2051.95
+  Trend: INCREASING
+
+Frame 0010:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 16886.2
+  Flow: +1261.37
+  Trend: INCREASING
+
+Frame 0012:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14524.7
+  Flow: +2010.28
+  Trend: INCREASING
+
+Frame 0012:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 16873.3
+  Flow: +1162.66
+  Trend: INCREASING
+
+Frame 0014:
+  Location: Row 2, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13689.0
+  Flow: +851.95
+  Trend: INCREASING
+
+Frame 0014:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13159.3
+  Flow: +783.06
+  Trend: INCREASING
+
+Frame 0016:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11228.4
+  Flow: +742.46
+  Trend: INCREASING
+
+Frame 0016:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12314.7
+  Flow: +855.42
+  Trend: INCREASING
+
+Frame 0018:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11268.3
+  Flow: +746.76
+  Trend: INCREASING
+
+Frame 0018:
+  Location: Row 6, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9144.5
+  Flow: +399.83
+  Trend: INCREASING
+
+Frame 0020:
+  Location: Row 6, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9950.0
+  Flow: +686.61
+  Trend: INCREASING
+
+Frame 0020:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10878.4
+  Flow: +597.91
+  Trend: INCREASING
+
+Frame 0022:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7604.5
+  Flow: +777.62
+  Trend: INCREASING
+
+Frame 0022:
+  Location: Row 3, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9551.8
+  Flow: +815.77
+  Trend: INCREASING
+
+Frame 0024:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8593.1
+  Flow: +983.97
+  Trend: INCREASING
+
+Frame 0024:
+  Location: Row 3, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10229.4
+  Flow: +829.31
+  Trend: INCREASING
+
+Frame 0026:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8255.2
+  Flow: +648.84
+  Trend: INCREASING
+
+Frame 0026:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12786.7
+  Flow: +272.54
+  Trend: INCREASING
+
+Frame 0028:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8493.3
+  Flow: +557.05
+  Trend: INCREASING
+
+Frame 0028:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12873.3
+  Flow: +226.68
+  Trend: INCREASING
+
+Frame 0030:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9400.9
+  Flow: +449.09
+  Trend: INCREASING
+
+Frame 0030:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13173.6
+  Flow: +191.02
+  Trend: INCREASING
+
+Frame 0032:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9887.1
+  Flow: +323.48
+  Trend: INCREASING
+
+Frame 0032:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 6001.8
+  Flow: +262.77
+  Trend: INCREASING
+
+Frame 0034:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7189.5
+  Flow: +773.76
+  Trend: INCREASING
+
+Frame 0034:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9009.7
+  Flow: +584.53
+  Trend: INCREASING
+
+Frame 0036:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7581.6
+  Flow: +1033.58
+  Trend: INCREASING
+
+Frame 0036:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9831.7
+  Flow: +769.77
+  Trend: INCREASING
+
+Frame 0038:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 6942.6
+  Flow: +771.71
+  Trend: INCREASING
+
+Frame 0038:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9247.8
+  Flow: +498.72
+  Trend: INCREASING
+
+Frame 0040:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 6529.7
+  Flow: +570.01
+  Trend: INCREASING
+
+Frame 0042:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8309.7
+  Flow: +231.52
+  Trend: INCREASING
+
+Frame 0042:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10447.5
+  Flow: +101.06
+  Trend: INCREASING
+
+Frame 0044:
+  Location: Row 0, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 5835.5
+  Flow: +473.78
+  Trend: INCREASING
+
+Frame 0044:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8629.9
+  Flow: +434.43
+  Trend: INCREASING
+
+Frame 0046:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8583.3
+  Flow: +335.95
+  Trend: INCREASING
+
+Frame 0046:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10696.9
+  Flow: +273.80
+  Trend: INCREASING
+
+Frame 0048:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10785.7
+  Flow: +410.00
+  Trend: INCREASING
+
+Frame 0048:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8673.9
+  Flow: +441.85
+  Trend: INCREASING
+
+Frame 0050:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9914.9
+  Flow: +861.48
+  Trend: INCREASING
+
+Frame 0050:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11764.3
+  Flow: +783.22
+  Trend: INCREASING
+
+Frame 0052:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9104.1
+  Flow: +711.29
+  Trend: INCREASING
+
+Frame 0052:
+  Location: Row 0, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 6820.0
+  Flow: +246.12
+  Trend: INCREASING
+
+Frame 0054:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8431.0
+  Flow: +192.65
+  Trend: INCREASING
+
+Frame 0054:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9256.2
+  Flow: +168.23
+  Trend: INCREASING
+
+Frame 0056:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10072.3
+  Flow: +535.55
+  Trend: INCREASING
+
+Frame 0056:
+  Location: Row 0, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7532.4
+  Flow: +549.65
+  Trend: INCREASING
+
+Frame 0058:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12566.2
+  Flow: +1069.13
+  Trend: INCREASING
+
+Frame 0058:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10573.5
+  Flow: +1015.45
+  Trend: INCREASING
+
+Frame 0060:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13758.0
+  Flow: +1163.47
+  Trend: INCREASING
+
+Frame 0060:
+  Location: Row 4, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13057.4
+  Flow: +1017.87
+  Trend: INCREASING
+
+Frame 0062:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10585.9
+  Flow: +983.92
+  Trend: INCREASING
+
+Frame 0062:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13975.2
+  Flow: +1386.04
+  Trend: INCREASING
+
+Frame 0064:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10968.0
+  Flow: +1040.97
+  Trend: INCREASING
+
+Frame 0064:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14675.8
+  Flow: +1150.88
+  Trend: INCREASING
+
+Frame 0066:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11318.9
+  Flow: +1049.20
+  Trend: INCREASING
+
+Frame 0066:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9563.1
+  Flow: +772.99
+  Trend: INCREASING
+
+Frame 0068:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11886.7
+  Flow: +461.81
+  Trend: INCREASING
+
+Frame 0068:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9218.8
+  Flow: +604.78
+  Trend: INCREASING
+
+Frame 0070:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11943.7
+  Flow: +407.38
+  Trend: INCREASING
+
+Frame 0070:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12891.1
+  Flow: +301.43
+  Trend: INCREASING
+
+Frame 0072:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13218.3
+  Flow: +200.36
+  Trend: INCREASING
+
+Frame 0072:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12683.2
+  Flow: +285.73
+  Trend: INCREASING
+
+Frame 0074:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12642.5
+  Flow: +298.39
+  Trend: INCREASING
+
+Frame 0074:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12169.0
+  Flow: +257.11
+  Trend: INCREASING
+
+Frame 0076:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13865.4
+  Flow: +291.30
+  Trend: INCREASING
+
+Frame 0076:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13191.1
+  Flow: +256.42
+  Trend: INCREASING
+
+Frame 0078:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13560.0
+  Flow: +349.32
+  Trend: INCREASING
+
+Frame 0078:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9827.2
+  Flow: +236.20
+  Trend: INCREASING
+
+Frame 0080:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9660.1
+  Flow: +279.08
+  Trend: INCREASING
+
+Frame 0080:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13745.3
+  Flow: +418.09
+  Trend: INCREASING
+
+Frame 0082:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8930.5
+  Flow: +289.81
+  Trend: INCREASING
+
+Frame 0082:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12194.6
+  Flow: +227.38
+  Trend: INCREASING
+
+Frame 0084:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12334.0
+  Flow: +73.69
+  Trend: INCREASING
+
+Frame 0084:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11536.2
+  Flow: +143.29
+  Trend: INCREASING
+
+Frame 0086:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13797.4
+  Flow: +408.30
+  Trend: INCREASING
+
+Frame 0086:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12793.2
+  Flow: +322.89
+  Trend: INCREASING
+
+Frame 0088:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10163.0
+  Flow: +234.96
+  Trend: INCREASING
+
+Frame 0088:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13419.6
+  Flow: +241.15
+  Trend: INCREASING
+
+Frame 0090:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13418.9
+  Flow: +456.11
+  Trend: INCREASING
+
+Frame 0090:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12637.5
+  Flow: +362.91
+  Trend: INCREASING
+
+Frame 0092:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12836.6
+  Flow: +305.56
+  Trend: INCREASING
+
+Frame 0092:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13575.0
+  Flow: +310.26
+  Trend: INCREASING
+
+Frame 0094:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13236.8
+  Flow: +258.53
+  Trend: INCREASING
+
+Frame 0094:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13257.5
+  Flow: +261.49
+  Trend: INCREASING
+
+Frame 0096:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14678.6
+  Flow: +314.75
+  Trend: INCREASING
+
+Frame 0096:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13617.8
+  Flow: +277.74
+  Trend: INCREASING
+
+Frame 0098:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14629.2
+  Flow: +302.57
+  Trend: INCREASING
+
+Frame 0098:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12968.5
+  Flow: +269.28
+  Trend: INCREASING
+
+Frame 0100:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15233.5
+  Flow: +414.61
+  Trend: INCREASING
+
+Frame 0100:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14135.6
+  Flow: +324.75
+  Trend: INCREASING
+
+Frame 0102:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14006.8
+  Flow: +304.04
+  Trend: INCREASING
+
+Frame 0102:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14979.6
+  Flow: +326.49
+  Trend: INCREASING
+
+Frame 0104:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8643.5
+  Flow: +392.77
+  Trend: INCREASING
+
+Frame 0104:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11034.2
+  Flow: +290.44
+  Trend: INCREASING
+
+Frame 0106:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9060.7
+  Flow: +671.05
+  Trend: INCREASING
+
+Frame 0106:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11284.4
+  Flow: +468.35
+  Trend: INCREASING
+
+Frame 0108:
+  Location: Row 3, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11944.5
+  Flow: +272.15
+  Trend: INCREASING
+
+Frame 0108:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11468.4
+  Flow: +397.41
+  Trend: INCREASING
+
+Frame 0110:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11111.0
+  Flow: +257.55
+  Trend: INCREASING
+
+Frame 0110:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7455.5
+  Flow: +99.70
+  Trend: INCREASING
+
+Frame 0112:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8902.2
+  Flow: +536.76
+  Trend: INCREASING
+
+Frame 0112:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12027.7
+  Flow: +365.88
+  Trend: INCREASING
+
+Frame 0114:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13273.0
+  Flow: +711.90
+  Trend: INCREASING
+
+Frame 0114:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10636.7
+  Flow: +575.79
+  Trend: INCREASING
+
+Frame 0116:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12274.6
+  Flow: +1207.13
+  Trend: INCREASING
+
+Frame 0116:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14338.3
+  Flow: +1090.61
+  Trend: INCREASING
+
+Frame 0118:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14409.9
+  Flow: +844.47
+  Trend: INCREASING
+
+Frame 0118:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13449.9
+  Flow: +1380.90
+  Trend: INCREASING
+
+Frame 0120:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13797.2
+  Flow: +952.29
+  Trend: INCREASING
+
+Frame 0120:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12994.3
+  Flow: +976.57
+  Trend: INCREASING
+
+Frame 0122:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13602.6
+  Flow: +741.47
+  Trend: INCREASING
+
+Frame 0122:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15190.5
+  Flow: +479.35
+  Trend: INCREASING
+
+Frame 0124:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13836.5
+  Flow: +390.46
+  Trend: INCREASING
+
+Frame 0124:
+  Location: Row 5, Col 1
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7559.3
+  Flow: +440.67
+  Trend: INCREASING
+
+Frame 0126:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14027.3
+  Flow: +144.35
+  Trend: INCREASING
+
+Frame 0126:
+  Location: Row 7, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10340.1
+  Flow: +173.69
+  Trend: INCREASING
+
+Frame 0128:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11566.8
+  Flow: +390.03
+  Trend: INCREASING
+
+Frame 0128:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8414.0
+  Flow: +273.35
+  Trend: INCREASING
+
+Frame 0130:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9733.1
+  Flow: +523.42
+  Trend: INCREASING
+
+Frame 0130:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12388.3
+  Flow: +516.91
+  Trend: INCREASING
+
+Frame 0132:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10641.5
+  Flow: +813.36
+  Trend: INCREASING
+
+Frame 0132:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13022.0
+  Flow: +648.33
+  Trend: INCREASING
+
+Frame 0134:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10789.6
+  Flow: +797.80
+  Trend: INCREASING
+
+Frame 0134:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13224.9
+  Flow: +598.91
+  Trend: INCREASING
+
+Frame 0136:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11853.5
+  Flow: +354.61
+  Trend: INCREASING
+
+Frame 0136:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7186.9
+  Flow: +225.97
+  Trend: INCREASING
+
+Frame 0138:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11886.5
+  Flow: +290.46
+  Trend: INCREASING
+
+Frame 0138:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12396.3
+  Flow: +250.43
+  Trend: INCREASING
+
+Frame 0140:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11640.4
+  Flow: +304.99
+  Trend: INCREASING
+
+Frame 0140:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10120.0
+  Flow: +294.13
+  Trend: INCREASING
+
+Frame 0142:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7857.6
+  Flow: +400.39
+  Trend: INCREASING
+
+Frame 0142:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9126.9
+  Flow: +275.72
+  Trend: INCREASING
+
+Frame 0144:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10272.1
+  Flow: +289.60
+  Trend: INCREASING
+
+Frame 0144:
+  Location: Row 4, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10507.6
+  Flow: +215.03
+  Trend: INCREASING
+
+Frame 0146:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9929.6
+  Flow: +414.62
+  Trend: INCREASING
+
+Frame 0146:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10706.5
+  Flow: +387.19
+  Trend: INCREASING
+
+Frame 0148:
+  Location: Row 4, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13584.0
+  Flow: +188.14
+  Trend: INCREASING
+
+Frame 0148:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8344.7
+  Flow: +174.11
+  Trend: INCREASING
+
+Frame 0150:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12266.7
+  Flow: +239.53
+  Trend: INCREASING
+
+Frame 0150:
+  Location: Row 3, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12420.3
+  Flow: +169.34
+  Trend: INCREASING
+
+Frame 0152:
+  Location: Row 4, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13984.7
+  Flow: +284.30
+  Trend: INCREASING
+
+Frame 0152:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12619.5
+  Flow: +236.92
+  Trend: INCREASING
+
+Frame 0154:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10539.6
+  Flow: +152.50
+  Trend: INCREASING
+
+Frame 0154:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13593.9
+  Flow: +214.85
+  Trend: INCREASING
+
+Frame 0156:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12064.9
+  Flow: +398.83
+  Trend: INCREASING
+
+Frame 0156:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11220.8
+  Flow: +480.59
+  Trend: INCREASING
+
+Frame 0158:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11852.2
+  Flow: +592.71
+  Trend: INCREASING
+
+Frame 0158:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12571.7
+  Flow: +205.99
+  Trend: INCREASING
+
+Frame 0160:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14022.0
+  Flow: +928.89
+  Trend: INCREASING
+
+Frame 0160:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14385.3
+  Flow: +822.87
+  Trend: INCREASING
+
+Frame 0162:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14818.8
+  Flow: +1069.80
+  Trend: INCREASING
+
+Frame 0162:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15217.1
+  Flow: +1073.81
+  Trend: INCREASING
+
+Frame 0164:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 16548.5
+  Flow: +1120.91
+  Trend: INCREASING
+
+Frame 0164:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15461.0
+  Flow: +1060.05
+  Trend: INCREASING
+
+Frame 0166:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15812.7
+  Flow: +817.75
+  Trend: INCREASING
+
+Frame 0166:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15020.1
+  Flow: +791.99
+  Trend: INCREASING
+
+Frame 0168:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15729.8
+  Flow: +336.13
+  Trend: INCREASING
+
+Frame 0168:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14791.5
+  Flow: +192.37
+  Trend: INCREASING
+
+Frame 0170:
+  Location: Row 6, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7270.5
+  Flow: +100.29
+  Trend: INCREASING
+
+Frame 0170:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 16025.8
+  Flow: +202.17
+  Trend: INCREASING
+
+Frame 0172:
+  Location: Row 4, Col 1
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 5032.9
+  Flow: +114.70
+  Trend: INCREASING
+
+Frame 0172:
+  Location: Row 4, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13449.3
+  Flow: +73.36
+  Trend: INCREASING
+
+Frame 0174:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11184.6
+  Flow: +108.58
+  Trend: INCREASING
+
+Frame 0174:
+  Location: Row 3, Col 1
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 4673.7
+  Flow: +97.15
+  Trend: INCREASING
+
+Frame 0176:
+  Location: Row 2, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11637.5
+  Flow: +277.12
+  Trend: INCREASING
+
+Frame 0176:
+  Location: Row 3, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13331.4
+  Flow: +201.03
+  Trend: INCREASING
+
+Frame 0178:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11594.6
+  Flow: +989.55
+  Trend: INCREASING
+
+Frame 0178:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11351.1
+  Flow: +432.91
+  Trend: INCREASING
+
+Frame 0180:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10739.5
+  Flow: +354.45
+  Trend: INCREASING
+
+Frame 0180:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13842.3
+  Flow: +330.06
+  Trend: INCREASING
+
+Frame 0182:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11873.3
+  Flow: +711.87
+  Trend: INCREASING
+
+Frame 0182:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14474.9
+  Flow: +529.69
+  Trend: INCREASING
+
+Frame 0184:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10488.3
+  Flow: +458.68
+  Trend: INCREASING
+
+Frame 0184:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11079.1
+  Flow: +351.39
+  Trend: INCREASING
+
+Frame 0186:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12115.1
+  Flow: +357.63
+  Trend: INCREASING
+
+Frame 0186:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11247.2
+  Flow: +216.55
+  Trend: INCREASING
+
+Frame 0188:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10955.5
+  Flow: +339.40
+  Trend: INCREASING
+
+Frame 0188:
+  Location: Row 2, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8094.4
+  Flow: +72.83
+  Trend: INCREASING
+
+Frame 0190:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11662.5
+  Flow: +460.66
+  Trend: INCREASING
+
+Frame 0190:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12801.0
+  Flow: +197.47
+  Trend: INCREASING
+
+Frame 0192:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9314.0
+  Flow: +234.80
+  Trend: INCREASING
+
+Frame 0192:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13190.9
+  Flow: +211.25
+  Trend: INCREASING
+
+Frame 0194:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11146.4
+  Flow: +834.99
+  Trend: INCREASING
+
+Frame 0194:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15040.5
+  Flow: +661.47
+  Trend: INCREASING
+
+Frame 0196:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11902.8
+  Flow: +1199.84
+  Trend: INCREASING
+
+Frame 0196:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15555.2
+  Flow: +994.45
+  Trend: INCREASING
+
+Frame 0198:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12476.1
+  Flow: +1055.28
+  Trend: INCREASING
+
+Frame 0198:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 7604.3
+  Flow: +962.55
+  Trend: INCREASING
+
+Frame 0200:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13426.2
+  Flow: +1028.05
+  Trend: INCREASING
+
+Frame 0200:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8833.7
+  Flow: +1094.14
+  Trend: INCREASING
+
+Frame 0202:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12807.2
+  Flow: +531.01
+  Trend: INCREASING
+
+Frame 0202:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13327.4
+  Flow: +588.88
+  Trend: INCREASING
+
+Frame 0204:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9557.0
+  Flow: +632.32
+  Trend: INCREASING
+
+Frame 0204:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13763.1
+  Flow: +465.07
+  Trend: INCREASING
+
+Frame 0206:
+  Location: Row 1, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9658.2
+  Flow: +633.11
+  Trend: INCREASING
+
+Frame 0206:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10273.3
+  Flow: +615.92
+  Trend: INCREASING
+
+Frame 0208:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10571.7
+  Flow: +559.70
+  Trend: INCREASING
+
+Frame 0208:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13516.1
+  Flow: +466.92
+  Trend: INCREASING
+
+Frame 0210:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13494.7
+  Flow: +171.88
+  Trend: INCREASING
+
+Frame 0210:
+  Location: Row 4, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12936.8
+  Flow: +267.11
+  Trend: INCREASING
+
+Frame 0212:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8959.8
+  Flow: +748.34
+  Trend: INCREASING
+
+Frame 0212:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11787.8
+  Flow: +670.65
+  Trend: INCREASING
+
+Frame 0214:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10213.6
+  Flow: +797.78
+  Trend: INCREASING
+
+Frame 0214:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12819.7
+  Flow: +636.61
+  Trend: INCREASING
+
+Frame 0216:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10967.6
+  Flow: +867.89
+  Trend: INCREASING
+
+Frame 0216:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13423.8
+  Flow: +713.02
+  Trend: INCREASING
+
+Frame 0218:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10544.6
+  Flow: +766.38
+  Trend: INCREASING
+
+Frame 0218:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12957.4
+  Flow: +599.67
+  Trend: INCREASING
+
+Frame 0220:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 15540.4
+  Flow: +335.80
+  Trend: INCREASING
+
+Frame 0220:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14602.0
+  Flow: +304.12
+  Trend: INCREASING
+
+Frame 0222:
+  Location: Row 3, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14708.1
+  Flow: +379.91
+  Trend: INCREASING
+
+Frame 0222:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8786.7
+  Flow: +208.90
+  Trend: INCREASING
+
+Frame 0224:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9279.3
+  Flow: +311.21
+  Trend: INCREASING
+
+Frame 0224:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11795.2
+  Flow: +206.90
+  Trend: INCREASING
+
+Frame 0226:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10532.0
+  Flow: +568.33
+  Trend: INCREASING
+
+Frame 0228:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11197.3
+  Flow: +751.76
+  Trend: INCREASING
+
+Frame 0230:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11731.4
+  Flow: +736.15
+  Trend: INCREASING
+
+Frame 0232:
+  Location: Row 0, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12004.9
+  Flow: +681.40
+  Trend: INCREASING
+
+Frame 0234:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 14102.3
+  Flow: +243.93
+  Trend: INCREASING
+
+Frame 0234:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10903.4
+  Flow: +194.87
+  Trend: INCREASING
+
+Frame 0236:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11735.2
+  Flow: +446.49
+  Trend: INCREASING
+
+Frame 0236:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9541.3
+  Flow: +459.86
+  Trend: INCREASING
+
+Frame 0238:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10048.8
+  Flow: +483.96
+  Trend: INCREASING
+
+Frame 0238:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11896.8
+  Flow: +457.53
+  Trend: INCREASING
+
+Frame 0240:
+  Location: Row 1, Col 4
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 10331.4
+  Flow: +597.31
+  Trend: INCREASING
+
+Frame 0240:
+  Location: Row 7, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8566.1
+  Flow: +483.63
+  Trend: INCREASING
+
+Frame 0242:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8994.0
+  Flow: +764.13
+  Trend: INCREASING
+
+Frame 0242:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9395.2
+  Flow: +720.95
+  Trend: INCREASING
+
+Frame 0244:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9454.4
+  Flow: +650.81
+  Trend: INCREASING
+
+Frame 0244:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9667.9
+  Flow: +506.26
+  Trend: INCREASING
+
+Frame 0246:
+  Location: Row 0, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9927.3
+  Flow: +578.68
+  Trend: INCREASING
+
+Frame 0246:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9939.2
+  Flow: +338.20
+  Trend: INCREASING
+
+Frame 0248:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9131.2
+  Flow: +1030.12
+  Trend: INCREASING
+
+Frame 0248:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11801.2
+  Flow: +932.49
+  Trend: INCREASING
+
+Frame 0250:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9280.6
+  Flow: +1116.24
+  Trend: INCREASING
+
+Frame 0250:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11873.5
+  Flow: +994.10
+  Trend: INCREASING
+
+Frame 0252:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12195.4
+  Flow: +1104.88
+  Trend: INCREASING
+
+Frame 0252:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9319.1
+  Flow: +1123.11
+  Trend: INCREASING
+
+Frame 0254:
+  Location: Row 5, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12334.1
+  Flow: +1109.18
+  Trend: INCREASING
+
+Frame 0254:
+  Location: Row 6, Col 2
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 9572.5
+  Flow: +1166.49
+  Trend: INCREASING
+
+Frame 0256:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13151.2
+  Flow: +856.40
+  Trend: INCREASING
+
+Frame 0256:
+  Location: Row 6, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 8548.4
+  Flow: +412.66
+  Trend: INCREASING
+
+Frame 0258:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11400.9
+  Flow: +462.00
+  Trend: INCREASING
+
+Frame 0258:
+  Location: Row 5, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 13103.8
+  Flow: +810.26
+  Trend: INCREASING
+
+Frame 0260:
+  Location: Row 1, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 12465.1
+  Flow: +805.24
+  Trend: INCREASING
+
+Frame 0260:
+  Location: Row 2, Col 3
+  Status: HIGH RISK - CROWD ACCUMULATION
+  Density: 11400.2
+  Flow: +624.10
+  Trend: INCREASING
+
+
+Total high-risk incidents: 253
+
+--------------------------------------------------------------------------------
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+
+Average Total Density: 480737.1
+Maximum Total Density: 549158.6
+High Risk Frames: 253
+
+================================================================================
+END OF REPORT
+================================================================================

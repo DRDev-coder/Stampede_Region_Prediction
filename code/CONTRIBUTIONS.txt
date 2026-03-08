@@ -1,0 +1,21 @@
+• Darshan R: Designed the Multi-scale Context Module to
+capture global scene semantics and developed the discrete
+annotation head for point localization. Implemented the
+temporal risk assessment engine using grid-based spatial
+analysis to detect rapid crowd accumulation and inward
+movement patterns across consecutive video frames.
+Extended the model's inference capabilities from static
+images to continuous video streams. Utilized OpenCV to
+engineer the visual annotation generation process,
+converting raw data into training-ready ground truth images.
+Co-developed the video integration pipeline for real-time
+stampede risk monitoring.
+
+• Vignesh Balamurugan M.B: Designed the Feature Pyramid Network (FPN) and the density estimation head
+within the dual-head architecture. Spearheaded the data
+preprocessing phase, specifically implementing the conversion
+of raw ground-truth coordinates (.mat files) into continuous
+density maps using Gaussian kernel smoothing. Adapted the
+ResNet-34 backbone framework to suit aerial surveillance
+constraints.
+
